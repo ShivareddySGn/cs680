@@ -1,0 +1,6 @@
+Testcase: edu.umb.cs680.hw4.FIFOFileCacheTest
+Test: fetchwithp1() took 9 milli sec(s)
+Test: fetchwithp2() took 0 milli sec(s)
+Test: fetchwithp3() took 0 milli sec(s)
+Test: fetchwithp4() took 1 milli sec(s)
+Tests run: 4, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 16 milli sec(s)

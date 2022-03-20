@@ -1,0 +1,6 @@
+Testcase: edu.umb.cs680.hw4.LRUFileCacheTest
+Test: fetchwithp1() took 0 milli sec(s)
+Test: fetchwithp2() took 1 milli sec(s)
+Test: fetchwithp3() took 0 milli sec(s)
+Test: fetchwithp4() took 0 milli sec(s)
+Tests run: 4, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 3 milli sec(s)
